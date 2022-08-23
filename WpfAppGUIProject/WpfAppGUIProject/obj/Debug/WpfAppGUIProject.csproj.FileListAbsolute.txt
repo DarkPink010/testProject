@@ -1,0 +1,16 @@
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\bin\Debug\WpfAppGUIProject.exe.config
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\bin\Debug\WpfAppGUIProject.exe
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\bin\Debug\WpfAppGUIProject.pdb
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\MainWindow.g.cs
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\App.g.cs
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject_MarkupCompile.cache
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject_MarkupCompile.lref
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\MainWindow.baml
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.g.resources
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.Properties.Resources.resources
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.csproj.GenerateResource.cache
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.exe
+C:\Users\123\source\repos\WpfAppGUIProject\WpfAppGUIProject\obj\Debug\WpfAppGUIProject.pdb
